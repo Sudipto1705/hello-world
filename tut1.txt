@@ -1,2 +1,5 @@
 Hi, I began studying git from YouTube.
 I am gonna learn it well this time
+
+This  is gonna be another commit.
+It feels great to learn git.
