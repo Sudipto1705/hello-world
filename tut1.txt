@@ -3,6 +3,6 @@ I am gonna learn it well this time
 
 This  is gonna be another commit.
 It feels great to learn git.
-to
+
 This line and the next one is being added to show going back to previous version.
 See purpose above.
